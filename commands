@@ -1,0 +1,10 @@
+yarn add @nestjs/config - 2
+yarn add @typegoose/typegoose mongoose nestjs-typegoose - 2
+yarn add -D @types/mongoose - 2
+yarn add @nestjs/jwt - 2
+nest g module auth - 2 генерация модуля
+nest g s auth - 2 добавление сервиса в папку auth
+nest g controller auth - 2 добавление контроллера в папку auth
+nest g module user - 2 генерация модуля
+nest g s user - 2 добавление сервиса в папку user
+nest g controller user - 2 добавление контроллера в папку user
