@@ -10,6 +10,6 @@ constructor(private readonly AuthService: AuthService) {}
     return this.AuthService.register(dto);
     }
   }
-}
+
 
 
