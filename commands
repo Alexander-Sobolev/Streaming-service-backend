@@ -8,3 +8,6 @@ nest g controller auth - 2 добавление контроллера в пап
 nest g module user - 2 генерация модуля
 nest g s user - 2 добавление сервиса в папку user
 nest g controller user - 2 добавление контроллера в папку user
+
+yarn add @nestjs/jwt @nestjs/passport class-validator passport passport-jwt - 4
+yarn add -D @types/bcryptjs @types/passport-jwt - 4
