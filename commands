@@ -11,3 +11,5 @@ nest g controller user - 2 добавление контроллера в пап
 
 yarn add @nestjs/jwt @nestjs/passport class-validator passport passport-jwt - 4
 yarn add -D @types/bcryptjs @types/passport-jwt - 4
+yarn add class-transformer - 4
+yarn add bcryptjs - 4
